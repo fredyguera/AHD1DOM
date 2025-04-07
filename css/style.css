@@ -1,0 +1,9 @@
+section {
+    border: 2px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+    border-radius: 10px;
+  }
+  h2 {
+    color: #2a7ae2;
+  }
